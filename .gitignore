@@ -1,0 +1,10 @@
+*~
+#.*#
+\.#.*
+.bin/
+node_modules
+*.cache
+*.orig
+*.rej
+*.diff
+*.jar
